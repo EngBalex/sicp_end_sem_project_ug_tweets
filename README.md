@@ -24,7 +24,7 @@ b) Sentiment Analysis
    - Aggregates sentiment frequencies for detailed analysis.
 
 3. Visualization
-   - Generates histograms for
+   - Generates histograms and bar charts for
      (i) Emotion distribution (e.g., joy, sadness, anger).
      (ii) Positive vs. negative sentiment polarity.
 
