@@ -1,4 +1,3 @@
-# sicp_end_sem_project_ug_tweets
 SENTIMENT ANALYSIS OF UGANDAN TWEETS USING SCHEME AND DR RACKET (SICP)
 ========================================================================================
 
